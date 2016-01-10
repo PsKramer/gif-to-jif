@@ -1,5 +1,5 @@
 {
-	"manifest_version": 1,
+	"manifest_version": 2,
 	"name": "GIF to JIF",
 	"version": "1.0",
 	"description": "Replaces the text 'GIF' with 'Jif' because that's the right pronunciation.",
