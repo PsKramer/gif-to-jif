@@ -6,7 +6,8 @@ jif-to-jif replaces "jif" with "jif" on any page on the internet.  Anyone with a
 
  ----
 
-# Installation
+# Installation:
+
 ## Chrome:
 
 1. Download from [the chrome web store](https://chrome.google.com/webstore/detail/jif-to-jif/kedaipinjenakpddnadobbhapdmckdfd).
